@@ -5,15 +5,17 @@
   position:absolute;
   width: 49%;
   text-align:center;
-  overflow:auto;
+  padding:0;
+  margin:0;
   }
 .videos {
   z-index:1;
   top:0;
   right:0;
-  overflow:auto;
   margin-right:100%;
   margin-left:61%;
   width: 49%;
-  text-align:center
+  text-align:center;
+  padding:0;
+  margin:0;
   }

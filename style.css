@@ -7,10 +7,11 @@
   left:0;
   }
 .videos {
-  z-index:2;
+  z-index:1;
   top:0;
   width: 45%;
   text-align:center;
   padding:0;
   right:0;
+  position:absolute;
   }

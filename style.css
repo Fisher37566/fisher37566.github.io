@@ -5,6 +5,8 @@
   width: 49%;
   text-align:center;
   padding:0;
+  margin-left:24%;
+  margin-right:24%;
   }
 .videos {
   z-index:1;
@@ -13,4 +15,6 @@
   width: 49%;
   text-align:center;
   padding:0;
+  margin-left:24%;
+  margin-right:24%;
   }

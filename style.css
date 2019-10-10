@@ -5,12 +5,13 @@
   position:absolute;
   width: 49%;
   text-align:center;
+  overflow:auto;
   }
 .videos {
   z-index:1;
   top:0;
   right:0;
-  psition:absolute;
+  overflow:auto;
   margin-right:100%;
   margin-left:61%;
   width: 49%;

@@ -2,8 +2,7 @@
   z-index:1;
   top:0;
   left:0;
-  margin-right:49%;
-  margin-left:0%;
+  position:absolute;
   width: 49%;
   text-align:center;
   }
@@ -11,6 +10,7 @@
   z-index:1;
   top:0;
   right:0;
+  psition:absolute;
   margin-right:100%;
   margin-left:61%;
   width: 49%;

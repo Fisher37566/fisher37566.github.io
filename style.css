@@ -1,1 +1,10 @@
-
+.games {
+  z-index:1;
+  top:0;
+  left:0;
+  position:fixed;
+  width: 50%;
+  }
+.video {
+  
+  }

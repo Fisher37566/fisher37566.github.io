@@ -4,7 +4,7 @@
   width: 45%;
   text-align:center;
   padding:0;
-  left:0;
+  left:auto;
   clear:both;
   }
 .videos {
@@ -13,6 +13,6 @@
   width: 45%;
   text-align:center;
   padding:0;
-  right:0;
+  right:auto;
   clear:both;
   }

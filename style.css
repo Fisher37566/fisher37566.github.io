@@ -4,7 +4,8 @@
   width: 40%;
   text-align:center;
   padding:0;
-  float:left;
+  left:0;
+  right:40%;
   }
 .videos {
   z-index:1;

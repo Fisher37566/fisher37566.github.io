@@ -7,4 +7,9 @@
   }
 .video {
   
+  z-index:1;
+  top:0;
+  right:0;
+  width: 50%;
+  text-align:center;
   }

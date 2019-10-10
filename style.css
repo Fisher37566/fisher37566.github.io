@@ -2,13 +2,17 @@
   z-index:1;
   top:0;
   left:0;
+  margin-right:49%;
+  margin-left:0%;
   width: 49%;
   text-align:center;
   }
 .videos {
   z-index:1;
   top:0;
-  left:50%;
+  right:0;
+  margin-right:100%;
+  margin-left:61%;
   width: 49%;
   text-align:center
   }

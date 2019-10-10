@@ -1,17 +1,18 @@
 .games {
   z-index:1;
   top:0;
-  width: 40%;
+  width: 45%;
   text-align:center;
   padding:0;
   left:0;
-  right:40%;
+  overflow:auto;
   }
 .videos {
   z-index:1;
   top:0;
-  width: 40%;
+  width: 45%;
   text-align:center;
   padding:0;
-  float:right;
+  right:0;
+  overflow:auto;
   }
